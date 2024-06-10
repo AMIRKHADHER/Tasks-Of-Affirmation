@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TOA Exemple"
+rootProject.name = "Tasks Of Affirmation"
 include(":app")
  

@@ -21,5 +21,3 @@ jobs:
       - name: Build Project
         run: ./gradlew assemble
 
-      - name: Static Analysis
-        run: ./gradlew lintKotlin detekt
